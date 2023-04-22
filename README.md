@@ -1,4 +1,4 @@
-### Hi there 👋! This is my personal GitHub account that hasn't been updated in a few years. The pinned projects below are still interesting, but not as relevant to me anymore. My work GitHub is [andrew-gregory-sema4](https://github.com/andrew-gregory-sema4), which has only contributed to private repos so it is quite boring to see.
+Hi there 👋! This is my personal GitHub account that hasn't been updated in a few years. The pinned projects below are still interesting, but not as relevant to me anymore. My work GitHub is [andrew-gregory-sema4](https://github.com/andrew-gregory-sema4), which has only contributed to private repos so it is quite boring to see.
 
 <!--
 **AndrewJGregory/AndrewJGregory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
